@@ -1,0 +1,11 @@
+/* Vision and mission css start */
+
+.margin-top {
+    margin-top: 100px;
+}
+
+@media (max-width: 992px) {
+    .vismis {
+        margin-bottom: 50px;
+    }
+}

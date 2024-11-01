@@ -1,0 +1,45 @@
+body{
+  overflow-x: hidden;
+}
+  .about-container {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 6rem;
+    margin-bottom: 10px ;
+  }
+
+  .head-color{
+    color: #c3195d !important;
+  }
+
+  .head-text{
+    color:#4682B4;
+  }
+
+  .carousel {
+    max-width: 800px;
+    margin: auto;
+    padding-top: 3%;
+  }
+
+  p {
+    text-align: justify;
+    font-size:1.6 rem;
+  }
+
+  .about-content {
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+  }
+  
+  .about-carousel{
+    max-width: 800px; 
+    margin: auto; 
+    padding-top: 3%;
+  }
